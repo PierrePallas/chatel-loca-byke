@@ -1,0 +1,22 @@
+{
+  "name": "chatel-loca-bike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch style.scss:style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierrePallas/chatel-loca-byke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierrePallas/chatel-loca-byke/issues"
+  },
+  "homepage": "https://github.com/PierrePallas/chatel-loca-byke#readme",
+  "dependencies": {
+    "sass": "^1.35.1"
+  }
+}
